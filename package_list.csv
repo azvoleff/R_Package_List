@@ -50,6 +50,7 @@ lmmfit
 lmodel2
 lmtest
 lpSolve
+lubridate
 maptools
 markdown
 MASS
