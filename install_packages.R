@@ -1,3 +1,3 @@
 pkgs <- read.csv("package_list.csv", header=FALSE)
 pkgs <- as.character(pkgs$V1)
-install.packages(pkgs)
+install.packages(pkgs, repos="http://cran.revolutionanalytics.com")
