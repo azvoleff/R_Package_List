@@ -69,6 +69,7 @@ randomForest
 RANN
 raster
 RColorBrewer
+RcppCNPy
 reshape2
 rgdal
 rgeos
