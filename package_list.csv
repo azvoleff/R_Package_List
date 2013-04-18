@@ -74,6 +74,7 @@ reshape2
 rgdal
 rgeos
 rgl
+rhdf5
 rms
 rpart
 scales
