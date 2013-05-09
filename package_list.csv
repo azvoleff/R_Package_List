@@ -39,6 +39,8 @@ glmmBUGS
 gridExtra
 gstat
 Hmisc
+hydroTSM
+hydroGOF
 irr
 iterators
 KernSmooth
@@ -63,6 +65,7 @@ mlogit
 nlme
 nnet
 plotrix
+plyr
 pspearman
 R2MLwiN
 R2WinBUGS
@@ -88,6 +91,7 @@ spacetime
 spatial
 spatstat
 spdep
+spi
 spgwr
 splancs
 stringr
