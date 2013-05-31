@@ -52,6 +52,7 @@ landsat
 languageR
 lattice
 lme4
+lmerTest
 lmmfit
 lmodel2
 lmtest
