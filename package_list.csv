@@ -1,6 +1,7 @@
 abind
 akima
 animation
+assocstats
 arm
 bitops
 boot
@@ -100,6 +101,7 @@ splancs
 stringr
 survival
 tree
+vcd
 vimcom
 xlsx
 XML
