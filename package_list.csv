@@ -79,6 +79,7 @@ RANN
 raster
 RColorBrewer
 RcppCNPy
+reshape
 reshape2
 rgdal
 rgeos
