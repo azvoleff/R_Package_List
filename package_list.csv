@@ -71,6 +71,7 @@ nnet
 plotrix
 plyr
 pspearman
+R2jags
 R2MLwiN
 R2WinBUGS
 RandomFields
@@ -102,6 +103,7 @@ splancs
 stringr
 survival
 tree
+unmarked
 vcd
 vimcom
 xlsx
