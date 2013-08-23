@@ -1,5 +1,4 @@
 abind
-akima
 animation
 assocstats
 arm
@@ -21,6 +20,7 @@ colorspace
 corpcor
 date
 deldir
+devtools
 dichromat
 doSNOW
 e1071
