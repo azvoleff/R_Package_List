@@ -15,7 +15,6 @@ classInt
 cluster
 coda
 codetools
-colorout
 colorspace
 corpcor
 date
@@ -90,7 +89,6 @@ rms
 roxygen2
 rpart
 scales
-setwidth
 snow
 snowfall
 sp
