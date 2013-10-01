@@ -1,3 +1,5 @@
 pkgs <- read.csv("package_list.csv", header=FALSE)
 pkgs <- as.character(pkgs$V1)
 install.packages(pkgs, repos="http://cran.revolutionanalytics.com")
+source("http://bioconductor.org/biocLite.R")
+biocLite("rhdf5")
