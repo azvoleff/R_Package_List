@@ -45,6 +45,7 @@ hydroTSM
 hydroGOF
 irr
 iterators
+kernlab
 KernSmooth
 knitr
 labeling
