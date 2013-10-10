@@ -45,6 +45,7 @@ hydroTSM
 hydroGOF
 irr
 iterators
+kernlab
 KernSmooth
 knitr
 labeling
@@ -96,6 +97,7 @@ snowfall
 sp
 spacetime
 spatial
+spatial.tools
 spatstat
 spdep
 spgrass6
