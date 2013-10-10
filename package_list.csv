@@ -78,6 +78,8 @@ randomForest
 RANN
 raster
 RColorBrewer
+Rcpp
+RcppArmadillo
 RcppCNPy
 reshape
 reshape2
