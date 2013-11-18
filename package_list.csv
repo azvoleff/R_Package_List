@@ -62,6 +62,7 @@ lubridate
 maptools
 markdown
 MASS
+mclust
 MCMCglmm
 memoise
 mgcv
@@ -106,6 +107,7 @@ spgwr
 splancs
 stringr
 survival
+testthat
 tree
 unmarked
 vcd
